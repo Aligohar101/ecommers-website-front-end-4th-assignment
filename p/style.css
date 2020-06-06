@@ -1,0 +1,49 @@
+
+.maincard
+{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.c1, .c2, .c3
+{
+    display: flex;
+    height: 100px;
+    width: 300px;
+    box-shadow: 2px 2px 2px rgb(120, 217, 255);
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px
+
+}
+
+.img1,.img2,.img3
+{
+    margin-right: 10px;
+}
+
+.newa
+{
+    margin-top: 20px;
+    
+}
+.card
+{
+    height: auto;
+    width: 200px;
+    margin-top: 5px;
+    margin-left: auto;
+   
+}
+.mannu
+{
+    box-shadow: 1px 1px 1px gray;
+    border: gray;
+}
+.card-text
+{
+    size: 10px;
+    color: orangered;
+}
